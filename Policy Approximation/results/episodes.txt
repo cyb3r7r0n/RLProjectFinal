@@ -1,0 +1,275 @@
+Day: 1
+Agent selected: 1
+Agent toggled the bulb
+Agent did not tell
+
+Day: 2
+Agent selected: 0
+Agent didn't toggle the bulb
+Agent did not tell
+
+Day: 3
+Agent selected: 2
+Agent toggled the bulb
+Agent did not tell
+
+Day: 4
+Agent selected: 0
+Agent toggled the bulb
+Agent did not tell
+
+Day: 5
+Agent selected: 0
+Agent toggled the bulb
+Agent Chose to TELL
+
+
+
+
+
+Day: 1
+Agent selected: 1
+Agent toggled the bulb
+Agent did not tell
+
+Day: 2
+Agent selected: 0
+Agent didn't toggle the bulb
+Agent did not tell
+
+Day: 3
+Agent selected: 0
+Agent toggled the bulb
+Agent did not tell
+
+Day: 4
+Agent selected: 2
+Agent didn't toggle the bulb
+Agent did not tell
+
+Day: 5
+Agent selected: 2
+Agent didn't toggle the bulb
+Agent Chose to TELL
+
+
+
+
+
+Day: 1
+Agent selected: 0
+Agent didn't toggle the bulb
+Agent did not tell
+
+Day: 2
+Agent selected: 0
+Agent didn't toggle the bulb
+Agent did not tell
+
+Day: 3
+Agent selected: 1
+Agent didn't toggle the bulb
+Agent Chose to TELL
+
+
+
+
+
+Day: 1
+Agent selected: 1
+Agent toggled the bulb
+Agent did not tell
+
+Day: 2
+Agent selected: 2
+Agent didn't toggle the bulb
+Agent did not tell
+
+Day: 3
+Agent selected: 0
+Agent toggled the bulb
+Agent did not tell
+
+Day: 4
+Agent selected: 2
+Agent didn't toggle the bulb
+Agent did not tell
+
+Day: 5
+Agent selected: 2
+Agent didn't toggle the bulb
+Agent Chose to TELL
+
+
+
+
+
+Day: 1
+Agent selected: 2
+Agent didn't toggle the bulb
+Agent did not tell
+
+Day: 2
+Agent selected: 0
+Agent didn't toggle the bulb
+Agent did not tell
+
+Day: 3
+Agent selected: 0
+Agent toggled the bulb
+Agent did not tell
+
+Day: 4
+Agent selected: 1
+Agent toggled the bulb
+Agent did not tell
+
+Day: 5
+Agent selected: 0
+Agent toggled the bulb
+Agent Chose to TELL
+
+
+
+
+
+Day: 1
+Agent selected: 2
+Agent didn't toggle the bulb
+Agent did not tell
+
+Day: 2
+Agent selected: 0
+Agent didn't toggle the bulb
+Agent did not tell
+
+Day: 3
+Agent selected: 0
+Agent toggled the bulb
+Agent did not tell
+
+Day: 4
+Agent selected: 1
+Agent toggled the bulb
+Agent did not tell
+
+Day: 5
+Agent selected: 2
+Agent didn't toggle the bulb
+Agent did not tell
+
+Day: 6
+Agent selected: 1
+Agent didn't toggle the bulb
+Agent did not tell
+
+Day: 7
+Agent selected: 1
+Agent toggled the bulb
+Agent did not tell
+
+Day: 8
+Agent selected: 1
+Agent toggled the bulb
+Agent did not tell
+
+Day: 9
+Agent selected: 2
+Agent didn't toggle the bulb
+Agent Chose to TELL
+
+
+
+
+
+Day: 1
+Agent selected: 2
+Agent didn't toggle the bulb
+Agent did not tell
+
+Day: 2
+Agent selected: 0
+Agent didn't toggle the bulb
+Agent did not tell
+
+Day: 3
+Agent selected: 1
+Agent didn't toggle the bulb
+Agent Chose to TELL
+
+
+
+
+
+Day: 1
+Agent selected: 0
+Agent didn't toggle the bulb
+Agent did not tell
+
+Day: 2
+Agent selected: 1
+Agent toggled the bulb
+Agent did not tell
+
+Day: 3
+Agent selected: 2
+Agent didn't toggle the bulb
+Agent did not tell
+
+Day: 4
+Agent selected: 0
+Agent toggled the bulb
+Agent did not tell
+
+Day: 5
+Agent selected: 1
+Agent toggled the bulb
+Agent did not tell
+
+Day: 6
+Agent selected: 2
+Agent didn't toggle the bulb
+Agent did not tell
+
+Day: 7
+Agent selected: 2
+Agent didn't toggle the bulb
+Agent Chose to TELL
+
+
+
+
+
+Day: 1
+Agent selected: 1
+Agent toggled the bulb
+Agent did not tell
+
+Day: 2
+Agent selected: 2
+Agent didn't toggle the bulb
+Agent did not tell
+
+Day: 3
+Agent selected: 1
+Agent didn't toggle the bulb
+Agent Chose to TELL
+
+
+
+
+
+Day: 1
+Agent selected: 2
+Agent didn't toggle the bulb
+Agent did not tell
+
+Day: 2
+Agent selected: 1
+Agent toggled the bulb
+Agent did not tell
+
+Day: 3
+Agent selected: 0
+Agent toggled the bulb
+Agent Chose to TELL
